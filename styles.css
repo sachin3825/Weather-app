@@ -110,7 +110,7 @@ h1 {
 }
 
 .user-info-container {
-  display: flex;
+  display: none;
 }
 
 .user-info-container.active {
